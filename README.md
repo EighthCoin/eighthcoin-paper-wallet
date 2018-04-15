@@ -5,3 +5,8 @@ Follow the instruction and write down your public address and privae keys in a s
 
 
 Demo (not safe): https://eighthcoin.github.io/paper/
+
+
+In QT-Wallet:
+Help->Debug Window
+Console-> Type "importprivkey  4XXXX-PrivateKey"
